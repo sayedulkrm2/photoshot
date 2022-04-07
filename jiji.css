@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.slide{
+    margin: 10px;
+}
+p1 {
+    font-size: 2em;
+    font-family: cursive;
+    
+}
+p8 {
+    font-size: 2em;
+    font-family:serif;
+}
+p5,h4 {
+    color: white;
+}
+h1 {
+    font-size: 4em;
+    font-family: fantasy;
+    color: firebrick;
+}
+.card {
+    margin: 10px;
+}
+
+.1button {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+
